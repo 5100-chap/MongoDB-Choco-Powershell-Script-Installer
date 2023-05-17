@@ -22,7 +22,7 @@ To run this script, ensure that the following prerequisites are met:
 
 To use the script, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository or save the .ps1 script to your local machine.
 2. Open PowerShell with administrator privileges.
 3. Navigate to the directory where you cloned the repository.
 4. Run the PowerShell script using the command `.\mongodb_installer.ps1`.
