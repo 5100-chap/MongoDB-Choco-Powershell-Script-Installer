@@ -39,6 +39,10 @@ The script performs the following actions:
 6. If the user selects a specific version, the script sets the path to the highest installed version that is less than or equal to the specified version. Otherwise, it sets the path to the highest installed version.
 7. Offers the choice to add the MongoDB path to the PATH variables. If the user agrees, it asks if they want to add it to the system-level PATH variable, user-level PATH variable, or both. The script checks if the path is already present in the chosen PATH variable(s) and adds it if it is not.
 
+## Issues
+
+If you encounter any issues or have questions regarding the script, please open an issue in this repository.
+
 ## License
 
 This script is released under the MIT License. For more details, see the [LICENSE](LICENSE) file in this repository.
